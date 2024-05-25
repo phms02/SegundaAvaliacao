@@ -1,0 +1,8 @@
+1º) Criar repositório no GitHub;
+2º) Dentro do repositório, vamos na aba "Ações" (ou "Actions");
+3º) Pesquisar por "Java" e selecionar a opção "Java com Maven" (ou "Java with Maven");
+4º) No arquivo gerado, inserimos as configurações mínimas para que o projeto seja executado;
+5º) Salvar o código do passo 4;
+6º) Configurar o .yml;
+	-> Passo a ser pesquisado.
+7º) Subir o código SEMPRE com o arquivo `pom.xml`.
