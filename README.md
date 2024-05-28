@@ -1,11 +1,12 @@
 # Segunda Avaliação de Testes e Qualidade de Software
 
-> Desenvolvido por ***Pedro Henrique Mequelim da Silva***, aluno do **5º (quinto) período de Análise e Desenvolvimento de Sistemas**, da **Faculdade Senac**.
+> Desenvolvido por ***Pedro Henrique Mequelim da Silva***, aluno do **5º (quinto) período de Análise e Desenvolvimento de Sistemas**, da **Faculdade Senac PR**.
 
 ## Objetivos da avaliação
 
-+ Montar uma **pipeline de testes** em **_Java_ com _Junit_ no _GitHub_**;
-+ Montar um **_plano de testes_**.
++ **Parte 01:** montar uma **pipeline de testes** em **_Java_ com _Junit_ no _GitHub_** e montar um **_plano de testes_**;
++ **Parte 02:** montar um programa de inteligência que responda sobre testes;
++ **Parte 03:** montar um plano de testes.
 
 ## Conhecendo o projeto
 
