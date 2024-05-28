@@ -17,7 +17,7 @@ public class App {
         carro1.venderCarro();
 
         //? Exibindo informações atualizadas do Carro 1 após a venda...
-        System.out.println("\nInformações do Carro 1 Após Venda:");
+        System.out.println("\nInformações do Carro 1 Após Venda: ");
         carro1.exibirInformacoes();
     }
 }
