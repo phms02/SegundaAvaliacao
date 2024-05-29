@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class CarroTest {
     @Test
     public void testGettersAndSetters() {
-        Carro carro = new Carro("Ferrari", "Corolla", 2022, 65000.0);
+        Carro carro = new Carro("Toyota", "Corolla", 2022, 65000.0);
         assertEquals("Toyota", carro.getMarca());
         assertEquals("Corolla", carro.getModelo());
         assertEquals(2022, carro.getAnoFabricacao());
